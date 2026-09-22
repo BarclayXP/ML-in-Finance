@@ -1,0 +1,23 @@
+# Only the lab logbooks are uploaded, as instructed.
+# Notebooks and datasets stay local.
+*.ipynb
+*.csv
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
