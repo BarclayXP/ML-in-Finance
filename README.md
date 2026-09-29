@@ -12,4 +12,6 @@ as a PNG. The Jupyter notebooks and datasets are not uploaded.
 ```
 Week1/Week1.docx    Week 1 — NumPy: arrays, arange, shape and reshape
 Week1/week1.png     Week 1 screenshot
+week2/Week2.docx    Week 2 — Pandas: DataFrames, groupby and apply
+week2/week2.png     Week 2 screenshot
 ```
