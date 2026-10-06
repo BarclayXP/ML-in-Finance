@@ -14,4 +14,6 @@ Week1/Week1.docx    Week 1 — NumPy: arrays, arange, shape and reshape
 Week1/week1.png     Week 1 screenshot
 week2/Week2.docx    Week 2 — Pandas: DataFrames, groupby and apply
 week2/week2.png     Week 2 screenshot
+week3/Week3.docx    Week 3 — Pandas and Seaborn: exploring telecom churn data
+week3/week3.png     Week 3 screenshot
 ```
