@@ -16,4 +16,6 @@ week2/Week2.docx    Week 2 — Pandas: DataFrames, groupby and apply
 week2/week2.png     Week 2 screenshot
 week3/Week3.docx    Week 3 — Pandas and Seaborn: exploring telecom churn data
 week3/week3.png     Week 3 screenshot
+week4/Week4.docx    Week 4 — MLP neural network: S&P 500 index price forecast
+week4/week4.png     Week 4 screenshot
 ```
